@@ -31,13 +31,17 @@ Me encuentro especializandome en desarrollo backend con JavaScript en Node JS.
 
 ## Experiencia laboral
 
-> *2016-05 - Actualmente* **Desarrollador web** - *C.C. Net Technologies S.A., Curridabat, San José, Costa Rica*
+> *2016-05 - 2022-07* **Desarrollador web** - *C.C. Net Technologies S.A., Curridabat, San José, Costa Rica*
 > - Realicé desarrollos de sitios web back-end utilizando PHP, Node JS.
 > - Realicé desarrollos de API utilizando Node JS.
 > - Sitios web utilizando lenguajes HTML, CSS, JavaScript, AJAX, JSON y jQuery, Vue JS.
 > - Desarrollé nuevos sitios web compatibles con dispositivos móviles .
 > - Multitarea en múltiples funciones y roles para cumplir con los plazos y las expectativas de la organización.
 > - Proporcioné mantenimiento de seguridad y parches en la interfaz del sistema web para mantener la viabilidad después del lanzamiento.
+
+> *2022-07 - Actualmente* **Desarrollador web** - *Corporación Millenium (TechnoSoft), San Pedro, San José, Costa Rica*
+> - Desarrollo frontEnd con Vue Js
+> - Desarrollo backEnd en .NET con C#
 
 
 ## **Habilidades obtenidas en el tiempo**
@@ -68,11 +72,17 @@ Me encuentro especializandome en desarrollo backend con JavaScript en Node JS.
 
 > 2022 - Docker
 
+> 2022 - C# en .NET
+
 ## **Software que he utilizado**
 
 > VS Code
 
+> Visual Studio
+
 > PHPMyAdmin
+
+> SQL Management Studio
 
 > Git
 
