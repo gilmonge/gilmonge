@@ -5,19 +5,19 @@
 
 > ***Fecha de nacimiento***: 05/02/1996
 
-Me encuentro en formación desde el 2014 cuando ingresé para obtener el diplomado en tecnologías de la información, actualmente me encuentro en el camino para poder obtener mi bachillerato en Ingeniería de Sistemas. <br><br>Soy desarrollador de software desde 2016 cuando obtuve mi primer trabajo como desarrollador web en el cual obtuve conocimientos acerca de PHP, HTML, JavaScript, Vue JS 3 y MariaDB. <br><br>Actualmente me encuentro trabajando con un entorno en .Net Framework, Vue JS 3 y base de datos SQL Server. <br><br>Me encuentro en el proceso de especialización en el backend con .Net Framework/Core.
+Me encuentro en formación desde el 2014 cuando ingresé para obtener el diplomado en tecnologías de la información en el Colegio Universitario de Cartago, actualmente me encuentro en el camino para poder obtener mi bachillerato en Ingeniería de Sistemas en la Universidad Americana, en Costa Rica. <br><br>Soy desarrollador de software desde 2016 cuando obtuve mi primer trabajo como desarrollador web en el cual obtuve conocimientos acerca de PHP, HTML, JavaScript, Vue JS 3 y MariaDB. <br><br>Actualmente me encuentro trabajando con un entorno en .Net Framework, Vue JS 3 y base de datos SQL Server. <br><br>Me encuentro en el proceso de constante aprendizaje de este framework.
 
 ## **Educación**
 
-> *2014-05 - 2017-09* **Diploma Universitario en Tecnologías de la Información** - *Colegio Universitario De Cartago - Cartago, Costa Rica*
-
 > *2018-05 - Actualmente* **Bachillerato en Ingeniería en sistemas** - *Universidad Americana - Cartago, Costa Rica*
+
+> *2014-05 - 2017-09* **Diploma Universitario en Tecnologías de la Información** - *Colegio Universitario De Cartago - Cartago, Costa Rica*
 
 ## Experiencia laboral
 
-> *2016-05 - 2022-07* **Desarrollador web** - *C.C. Net Technologies S.A., Curridabat, San José, Costa Rica*
-
 > *2022-07 - Actualmente* **Desarrollador web** - *Corporación Millenium (TechnoSoft), San Pedro, San José, Costa Rica*
+
+> *2016-05 - 2022-07* **Desarrollador web** - *C.C. Net Technologies S.A., Curridabat, San José, Costa Rica*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilberth-monge-gonzalez) 
